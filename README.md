@@ -27,3 +27,11 @@ Grooming is the process that optimises and reorganises the data stream so it wou
 ONU could be connected by various methods and cable types, like twisted-pair copper wire, coaxial cable, optical fiber or Wi-Fi.
 ### Optical Network Terminal (ONT)
 Actually, ONT is the same as ONU in essence. ONT is an ITU-T term, whereas ONU is an IEEE term. They both refer to the user side equipment in GEPON system. But in practice, there is a little difference between ONT and ONU according to their location. ONT is generally on customer premises.
+
+## Fiber-Based Access Scenarios (FTTx)
+[source](https://www.cisco.com/c/en/us/products/collateral/interfaces-modules/transceiver-modules/datasheet-c78-736392.html)
+- Fiber to the home (FTTH)
+- Fiber to the building (FTTB)
+- Fiber to the curb (FTTC)
+- Fiber to the cell (FTTc)
+- Fiber to the business (FTTb)
